@@ -2,7 +2,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="" height="48" width="48" />
   <p></p>
 <img src="https://locize.com/blog/what-is-i18n/i18next-logo.png" alt="" height="48"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="" height="48" width="48"  />
+<img src="https://img.icons8.com/color/512/typescript.png" alt="typescript" height="48" width="48"  />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Next.js-15.1.6-blue" alt="" />
